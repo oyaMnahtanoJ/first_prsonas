@@ -24,6 +24,8 @@
 
 User X is a **critical / mixed / positive** reviewer who tends to buy **low-rated / mid-rated / high-rated** and **niche / common / popular** items. They show a **narrow / varied / broad** purchasing pattern and prefer **budget / moderately / premium** priced products. They exhibit a **focused / balanced / diverse** brand preference. Their interests lie primarily in the category of **category**.
 
+**Example:**
+
 User **AE2WYNQPBMS67OHFWV63NI4MSJEA** is a **mixed** reviewer who tends to buy **low-rated** and **popular items**. They show a **varied** purchasing pattern and prefer **premium** priced products. They exhibit a **balanced** brand preference. Their interests lie primarily in the category of **Hair Care**.
 
 ## CDP Persona Embedding Schema
@@ -39,6 +41,8 @@ User **AE2WYNQPBMS67OHFWV63NI4MSJEA** is a **mixed** reviewer who tends to buy *
 | review_volume_group | few / handful / many | number of reviews per user |
 
 User X shows a **narrow / varied / broad** purchasing pattern and prefers **budget / moderately / premium** priced products. Their brand preference is **focused / balanced / diverse**, sessions are generally **short / intermediately / long** timed, and their activity is skewed toward the **weekday / mixed / weekend**. They post **few / handful / many** reviews overall.
+
+**Example:**
 
 User **258927307** shows a **broad** purchasing pattern and prefers **premium** priced products. Their brand preference is **focused**, sessions are generally **short** timed, and their activity is skewed toward the **weekday**. They post **many** reviews overall.
 
@@ -57,5 +61,7 @@ User **258927307** shows a **broad** purchasing pattern and prefers **premium** 
 | category | Top category | category |
 
 User X is a **critical / mixed / positive** reviewer who typically visits **low-rated / mid-rated / high-rated** and **niche / common / popular** businesses. They exhibit a **narrow / varied / broad** visitation pattern, favour **morning / afternoon / evening** outings, are mostly **weekday / mixed / weekend** active, write **few / handful / many** reviews, and tend to explore businesses in **category**.
+
+**Example:**
 
 User **Jt3GylPuH64uA3zTdbMdCg** is a **critical** reviewer who typically visits **low-rated** and **common businesses**. They exhibit a **varied** visitation pattern, favour **afternoon** outings, are mostly **weekday** active, write a **handful** of reviews, and tend to explore businesses in **Hair Salons**.
