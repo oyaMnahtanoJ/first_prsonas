@@ -65,3 +65,14 @@ User X is a **critical / mixed / positive** reviewer who typically visits **low-
 **Example:**
 
 User **Jt3GylPuH64uA3zTdbMdCg** is a **critical** reviewer who typically visits **low-rated** and **common businesses**. They exhibit a **varied** visitation pattern, favour **afternoon** outings, are mostly **weekday** active, write a **handful** of reviews, and tend to explore businesses in **Hair Salons**.
+
+**Cross-Domain Persona Matcher:**
+
+ User: dCOonQ7Md1ooief37g1SHw [Yelp]
+User dCOonQ7Md1ooief37g1SHw is a mixed reviewer who typically visits high-rated and niche businesses. They exhibit a narrow visitation pattern, favour evening outings, are mostly mixed active, write many reviews, and tend to explore businesses in Nail Salons.
+
+ Closest match from Amazon → AGYGB42MVBQ4X2XNEX45VHJD7GOA
+User AGYGB42MVBQ4X2XNEX45VHJD7GOA is a mixed reviewer who tends to buy low-rated and popular items. They show a varied purchasing pattern and prefer moderately priced products. They exhibit a diverse brand preference. Their interests lie primarily in the category of Hair Care.
+
+ Closest match from CDP → 355374962
+User 355374962 shows a varied purchasing pattern and prefers moderately priced products. Their brand preference is diverse, sessions are generally short timed, and their activity is skewed toward the weekday. They post many reviews overall.
